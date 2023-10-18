@@ -1,0 +1,20 @@
+body{background: linear-gradient(to bottom , #390083,#d5c3f3);background-repeat:no-repeat;min-height:900px;font-size: large;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.header{display: flex;justify-content: center;align-items: center;margin-top: 70px;color: antiquewhite;}
+.footer{font-size: large;display: flex;justify-content: center;align-items: center;margin-top: 20px;margin-bottom: 40px;}
+.Cuadricula{border: 10px rgb(217, 255, 0) solid }
+.generador{display: flex;flex-direction: column;}
+p{font-size: large;display: flex;justify-content: center;align-items: center;}
+.Element{display: flex;flex-direction: row;gap: 145px;margin: 20px;}
+.Element1{display: flex;flex-direction: row;gap: 10px;margin: 10px;}
+.ElementFijos{display: flex;flex-direction: row;gap: 10px;margin: 10px;border-bottom: 1px solid;}
+.Element11{display: flex;flex-direction: row;gap: 10px;margin: 10px;}
+#generarLetraBoton{width: 200px;height: 200px;border-radius: 100%;background-color: chartreuse;margin-left: 42%;margin-right: 42%;font-size: 50px;}
+#Alert{display: flex;justify-content: end;align-items: end;padding-right: 50px;}
+#famous{margin-left: -45px;}
+#botonDuplicar{background: whitesmoke;width: 200px;}
+#botonEliminar{background: whitesmoke;width: 200px;}
+#pequeño{font-size: 15px;}
+span{font-size: normal;}
+.normas{margin: 20px;}
+.lista{display: flex;justify-content: center;align-items: center;margin-top: 50px;}
+.c{border: 3px solid yellow;color: white;}
